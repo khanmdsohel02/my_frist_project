@@ -1,5 +1,5 @@
 body {
-    background-color: whitesmoke;
+    background-color: rgb(216, 209, 209);
 }
 
 .head {
@@ -19,6 +19,7 @@ h2 {
 
 p {
     text-align: justify;
+    font-size: 18px;
 }
 
 
@@ -26,25 +27,125 @@ p {
 .focusedon {
     display: flex;
     margin-top: 5%;
+    margin-left: 5%;
 }
 
-.mission {
+.headsection {
     width: 50%;
     margin-left: 5%;
 }
 
-.mission img {
+.headsection img {
     border-radius: 100%;
     margin-left: 15%;
 }
 
 button {
     background-color: blueviolet;
-    color: white;
     padding: 10px 20px;
     border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+
+
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+button:hover a {
+    color: black;
+
+
+
+
 }
 
 #scroll {
     font-size: 13px;
+}
+
+.mission2022 {
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+#header {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 4%;
+
+}
+
+#header span {
+    color: blueviolet;
+}
+
+.mission {
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 12px blueviolet;
+
+}
+
+#illustrator-1 img {
+    width: 35%;
+    margin-left: 3%;
+}
+
+.mission h3 {
+    padding-left: 5%;
+    font-size: 25px;
+}
+
+.mission p {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+
+.missionparts {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 5%;
+}
+
+#vissionp {
+    margin-bottom: -2px;
+}
+
+#mission {
+    background-color: thistle;
+}
+
+#vission {
+    background-color: violet;
+}
+
+#goal {
+    background-color: turquoise;
+}
+
+#winpic img {
+    width: 50%;
+    margin-left: 0%;
+    border-radius: 15%;
+
+}
+
+.para {
+    width: 80%;
+
+}
+
+#learn {
+    margin-left: -10%;
+    width: 80%;
+}
+
+#communitypic img {
+    width: 60%;
+    border-radius: 15%;
 }
