@@ -3,6 +3,12 @@ body {
     margin: 0%;
 }
 
+.logo {
+    margin-left: 10%;
+    margin-top: 2%;
+
+}
+
 .head {
     border-left: 3px solid blueviolet;
     padding-left: 1%;
