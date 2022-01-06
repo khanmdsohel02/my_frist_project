@@ -1,0 +1,50 @@
+body {
+    background-color: whitesmoke;
+}
+
+.head {
+    border-left: 3px solid blueviolet;
+    padding-left: 1%;
+
+}
+
+.head h1 {
+    color: blueviolet;
+}
+
+.head h1,
+h2 {
+    font-size: 35px;
+}
+
+p {
+    text-align: justify;
+}
+
+
+
+.focusedon {
+    display: flex;
+    margin-top: 5%;
+}
+
+.mission {
+    width: 50%;
+    margin-left: 5%;
+}
+
+.mission img {
+    border-radius: 100%;
+    margin-left: 15%;
+}
+
+button {
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+#scroll {
+    font-size: 13px;
+}
