@@ -84,7 +84,13 @@ button:hover a {
     font-size: 30px;
     margin-bottom: 4%;
 
+
 }
+
+#header h1 {
+    margin-right: 4.7%;
+}
+
 
 #header span {
     color: blueviolet;
@@ -136,21 +142,34 @@ button:hover a {
 }
 
 #kidscoding img {
-    width: 50%;
+    width: 80%;
     margin-left: 0%;
     border-radius: 15%;
 
 }
 
 .para {
-    width: 80%;
+    width: 83%;
 
 }
 
 #learn {
-    margin-left: -10%;
+    margin-left: 10%;
     width: 80%;
 }
+
+#learn h3 {
+    font-size: 25px;
+    border-left: 3px solid blueviolet;
+    padding-left: 5px;
+}
+
+.head h3 {
+    font-size: 25px;
+
+}
+
+
 
 
 
