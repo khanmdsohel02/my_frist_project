@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(216, 209, 209);
+    background-color: rgb(218, 236, 236);
+    margin: 0%;
 }
 
 .head {
@@ -128,7 +129,7 @@ button:hover a {
     background-color: turquoise;
 }
 
-#winpic img {
+#kidscoding img {
     width: 50%;
     margin-left: 0%;
     border-radius: 15%;
@@ -145,7 +146,100 @@ button:hover a {
     width: 80%;
 }
 
+
+
+
 #communitypic img {
     width: 60%;
     border-radius: 15%;
+
+}
+
+.title {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 8%;
+    font-weight: 900;
+    color: blueviolet;
+
+}
+
+h3 a {
+    text-decoration: none;
+}
+
+h3 a:hover {
+    color: deepskyblue;
+}
+
+.exprience {
+
+    margin-top: 3%;
+    margin-left: 25%;
+
+
+
+
+}
+
+.myexpri {
+    width: 60%;
+    border: 3px solid blueviolet;
+    background-color: cornsilk;
+    border-radius: 5%;
+
+
+
+}
+
+.myexpri img {
+    width: 100%;
+    border-radius: 5%;
+    border-bottom: 2px solid blueviolet;
+
+}
+
+.myexpri h3 {
+    padding-left: 5%;
+
+
+}
+
+.myexpri p {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+
+}
+
+.footersection {
+    background-color: blueviolet;
+    margin-top: 5%;
+
+
+}
+
+.footersection h2,
+h4 {
+    text-align: center;
+    color: cornsilk;
+
+
+
+}
+
+.footersection h2 {
+    padding-top: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.footersection h4 {
+    padding-bottom: 15px;
+    font-size: 18px;
+
+}
+
+.footer2022 span {
+    color: goldenrod;
+    font-size: 50px;
 }
